@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-color: #3467b3;
+  color: white;
+}
+
+#canvas1 {
+  width: 400px;
+  height: 400px;
+}
+
+#animationDescription {
+    font-size: xx-large;
+    font-weight: 400;
+}
